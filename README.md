@@ -309,7 +309,7 @@ By completing all eleven sessions, you should be able to:
   07        Assignments and Syntax             ✅
   08        Conditional Logic                  ✅
   09        Iteration and Loops                ✅
-  10        Iterators and Comprehensions       ⬜
+  10        Iterators and Comprehensions       ✅
   11        Functions                          ⬜
 
 > Replace `⬜` with `✅` as each session is completed.
